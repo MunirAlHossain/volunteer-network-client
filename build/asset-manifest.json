@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc53f322.chunk.css",
+    "main.js": "/static/js/main.3983d95e.chunk.js",
+    "main.js.map": "/static/js/main.3983d95e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.efcd0573.chunk.js": "/static/js/2.efcd0573.chunk.js",
+    "static/js/2.efcd0573.chunk.js.map": "/static/js/2.efcd0573.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0b8cf1c21fe3f375042cc7cabe319aa2.js": "/precache-manifest.0b8cf1c21fe3f375042cc7cabe319aa2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dc53f322.chunk.css.map": "/static/css/main.dc53f322.chunk.css.map",
+    "static/js/2.efcd0573.chunk.js.LICENSE.txt": "/static/js/2.efcd0573.chunk.js.LICENSE.txt",
+    "static/media/ITHelp.png": "/static/media/ITHelp.6e230ac6.png",
+    "static/media/animalShelter.png": "/static/media/animalShelter.e44d4154.png",
+    "static/media/babySit.png": "/static/media/babySit.c92a596d.png",
+    "static/media/birdHouse.png": "/static/media/birdHouse.6d5cb25c.png",
+    "static/media/childSupport.png": "/static/media/childSupport.e477f112.png",
+    "static/media/cleanWater.png": "/static/media/cleanWater.920219df.png",
+    "static/media/clearnPark.png": "/static/media/clearnPark.c3dc14c7.png",
+    "static/media/clothSwap.png": "/static/media/clothSwap.2fda2b62.png",
+    "static/media/driveSafety.png": "/static/media/driveSafety.e4f4548d.png",
+    "static/media/extraVolunteer.png": "/static/media/extraVolunteer.01131059.png",
+    "static/media/foodCharity.png": "/static/media/foodCharity.af6141ee.png",
+    "static/media/goodEducation.png": "/static/media/goodEducation.34e8ec23.png",
+    "static/media/libraryBooks.png": "/static/media/libraryBooks.efc3498d.png",
+    "static/media/musicLessons.png": "/static/media/musicLessons.46ee861b.png",
+    "static/media/newBooks.png": "/static/media/newBooks.d4cada8f.png",
+    "static/media/refuseShelter.png": "/static/media/refuseShelter.ddcd5a3a.png",
+    "static/media/riverClean.png": "/static/media/riverClean.78aec714.png",
+    "static/media/schoolSuffiles.png": "/static/media/schoolSuffiles.d6036b31.png",
+    "static/media/studyGroup.png": "/static/media/studyGroup.c942fa4c.png",
+    "static/media/stuffedAnimals.png": "/static/media/stuffedAnimals.520eada9.png",
+    "static/media/voteRegister.png": "/static/media/voteRegister.bab7ffa6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.efcd0573.chunk.js",
+    "static/css/main.dc53f322.chunk.css",
+    "static/js/main.3983d95e.chunk.js"
+  ]
+}

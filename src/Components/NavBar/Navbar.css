@@ -1,0 +1,13 @@
+.nav-item{
+    text-decoration: none;
+    padding: 5px 10px;
+}
+.signInBtn, .admin{
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.signInBtn:hover, .admin:hover{
+    color: #fff;
+}
+
